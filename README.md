@@ -7,7 +7,7 @@ Currently, I'm actively working on various projects and striving to improve ever
 <details>
 <summary>My Top Languages</summary>
 
-| Rank | THING-TO-RANK |
+| Rank | My Languages |
 |-----:|---------------|
 |     1| C             |
 |     2| C++              |
