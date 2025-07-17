@@ -10,8 +10,8 @@ Currently, I'm actively working on various projects and striving to improve ever
 | Rank | My Languages |
 |-----:|---------------|
 |     1| C++            |
-|     2| Java              |
-|     3| Python              |
+|     2| Python              |
+|     3| Java              |
 
 </details>
 
